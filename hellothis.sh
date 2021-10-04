@@ -1,0 +1,2 @@
+#! /bin/bash
+echo "HELLO CRESTINS WEL COME TO JENKINS"
